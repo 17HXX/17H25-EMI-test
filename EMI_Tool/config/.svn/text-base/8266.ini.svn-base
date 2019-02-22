@@ -1,0 +1,193 @@
+[common]
+GPIO_CNT = 31
+gpio  			 = 1
+ie			 	 = 1
+oen			 	 = 0 
+output		 	 = 1
+[ITEM0]
+name 			 = "PA1"
+gpio  			 = 586[1]  
+ie			 	 = 581[1]  
+oen			 	 = 582[1]  
+output		 	 = 583[1]
+[ITEM1]
+name 			 = "PA4"
+gpio  			 = 586[4]  
+ie			 	 = 581[4]  
+oen			 	 = 582[4]  
+output		 	 = 583[4] 
+[ITEM2]
+name 			 = "PA5"
+gpio  			 = 586[5]  
+ie			 	 = 581[5]  
+oen			 	 = 582[5]  
+output		 	 = 583[5]  
+[ITEM3]
+name 			 = "PA6"
+gpio  			 = 586[6]  
+ie			 	 = 581[6]  
+oen			 	 = 582[6]  
+output		 	 = 583[6]
+[ITEM4]
+name 			 = "PA7"
+gpio  			 = 586[7]  
+ie			 	 = 581[7]  
+oen			 	 = 582[7]  
+output		 	 = 583[7]  
+[ITEM5]
+name 			 = "PB0"
+gpio  			 = 58e[0]  
+ie			 	 = 589[0]  
+oen			     = 58a[0]  
+output		     = 58b[0] 
+[ITEM6]
+name 			 = "PB1"
+gpio  			 = 58e[1]  
+ie			 	 = 589[1]  
+oen			     = 58a[1]  
+output		     = 58b[1] 
+[ITEM7]
+name 			 = "PB4"
+gpio  			 = 58e[4]  
+ie			 	 = 589[4]  
+oen			     = 58a[4]  
+output		     = 58b[4] 
+[ITEM8]
+name 			 = "PB7"
+gpio  			 = 58e[7]  
+ie			 	 = 589[7]  
+oen			     = 58a[7]  
+output		     = 58b[7]  
+[ITEM9]
+name 			 = "PC0"
+gpio             = 596[0]  
+ie			 	 = 591[0]  
+oen		  		 = 592[0]  
+output		 	 = 593[0]
+[ITEM10]
+name 			 = "PC1"
+gpio             = 596[1]  
+ie			 	 = 591[1]  
+oen		  		 = 592[1]  
+output		 	 = 593[1] 
+[ITEM11]
+name 			 = "PC2"
+gpio             = 596[2]  
+ie			 	 = 591[2]  
+oen		  		 = 592[2]  
+output		 	 = 593[2]  
+[ITEM12]
+name 			 = "PC3"
+gpio             = 596[3]  
+ie			 	 = 591[3]  
+oen		  		 = 592[3]  
+output		 	 = 593[3]
+[ITEM13]
+name 			 = "PC4"
+gpio             = 596[4]  
+ie			 	 = 591[4]  
+oen		  		 = 592[4]  
+output		 	 = 593[4]  
+[ITEM14]
+name 			 = "PC5"
+gpio             = 596[5]  
+ie			 	 = 591[5]  
+oen		  		 = 592[5]  
+output		 	 = 593[5] 
+[ITEM15]
+name 			 = "PC6"
+gpio             = 596[6]  
+ie			 	 = 591[6]  
+oen		  		 = 592[6]  
+output		 	 = 593[6]
+[ITEM16]
+name 			 = "PC7"
+gpio             = 596[7]  
+ie			 	 = 591[7]  
+oen		  		 = 592[7]  
+output		 	 = 593[7] 
+[ITEM17]
+name 			 = "PD0"
+gpio 			 = 59e[0]
+ie			 	 = 599[0] 
+oen     		 = 59a[0]
+output      	 = 59b[0]
+[ITEM18]
+name 			 = "PD1"
+gpio 			 = 59e[1]
+ie			 	 = 599[1] 
+oen     		 = 59a[1]
+output      	 = 59b[1]
+[ITEM19]
+name 			 = "PD2"
+gpio 			 = 59e[2]
+ie			 	 = 599[2] 
+oen     		 = 59a[2]
+output      	 = 59b[2]
+[ITEM20]
+name 			 = "PD3"
+gpio 			 = 59e[3]
+ie			 	 = 599[3] 
+oen     		 = 59a[3]
+output      	 = 59b[3]
+[ITEM21]
+name 			 = "PD4"
+gpio 			 = 59e[4]
+ie			 	 = 599[4] 
+oen     		 = 59a[4]
+output      	 = 59b[4]
+[ITEM22]
+name 			 = "PD5"
+gpio 			 = 59e[5]
+ie			 	 = 599[5] 
+oen     		 = 59a[5]
+output      	 = 59b[5]
+[ITEM23]
+name 			 = "PD6"
+gpio 			 = 59e[6]
+ie			 	 = 599[6] 
+oen     		 = 59a[6]
+output      	 = 59b[6]
+[ITEM24]
+name 			 = "PD7"
+gpio 			 = 59e[7]
+ie			 	 = 599[7] 
+oen     		 = 59a[7]
+output      	 = 59b[7]
+[ITEM25]
+name 			 = "PE0"
+gpio			 = 5a6[0]
+ie			 	 = 5a1[0] 
+oen    			 = 5a2[0]
+output			 = 5a3[0]
+[ITEM26]
+name 			 = "PE1"
+gpio			 = 5a6[1]
+ie			 	 = 5a1[1] 
+oen    			 = 5a2[1]
+output			 = 5a3[1]
+[ITEM27]
+name 			 = "PE2"
+gpio			 = 5a6[2]
+ie			 	 = 5a1[2] 
+oen    			 = 5a2[2]
+output			 = 5a3[2]
+[ITEM28]
+name 			 = "PE3"
+gpio			 = 5a6[3]
+ie			 	 = 5a1[3] 
+oen    			 = 5a2[3]
+output			 = 5a3[3]
+[ITEM29]
+name 			 = "PE4"
+gpio			 = 5a6[4]
+ie			 	 = 5a1[4] 
+oen    			 = 5a2[4]
+output			 = 5a3[4]
+[ITEM30]
+name 			 = "PE5"
+gpio			 = 5a6[5]
+ie			 	 = 5a1[5] 
+oen    			 = 5a2[5]
+output			 = 5a3[5]
+
